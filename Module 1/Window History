@@ -1,0 +1,19 @@
+1.1.1 Disk Operating System
+
+In the early days of computing, storage relied on methods like punch cards, paper tape, magnetic tape, and audio cassettes as modern storage devices were nonexistent. The Disk Operating System (DOS) was crucial for managing data on emerging storage mediums such as floppy and hard disks. Microsoft acquired DOS, evolving it into MS-DOS, known for its command-line interface.
+
+MS-DOS, loaded during the boot process, provided the computer with the ability to access disk drives and handle data. Windows 1.0, the initial Windows versions, ran over MS-DOS, which maintained control over the computer. However, modern Windows, starting with Windows NT, deviates from DOS, offering a graphical user interface (GUI) and support for multiple user processes.
+
+While early MS-DOS required command-line interaction, today's Windows GUI has made many tasks user-friendly. Although a command window reminiscent of MS-DOS can be opened in modern Windows, it's a function of Windows, not true MS-DOS.
+
+1.1.2 Windows Versions
+
+Windows has seen over 20 releases since 1993, all based on the NT operating system. These versions, designed for diverse purposes like workstations, servers, and data centers, emphasized file security. Windows XP introduced a 64-bit edition with a significantly expanded address space, supporting larger data sets and enhancing performance.
+
+Successive Windows releases incorporated more features and editions. Windows 10, declared as the last version by Microsoft, shifted towards a service model. Users are encouraged to update Windows 10 instead of purchasing new operating systems.
+
+1.1.3 Windows GUI
+
+Windows features a graphical user interface (GUI) with a customizable Desktop, supporting multiple users. The Desktop serves as a space for files, folders, and application shortcuts. The Task Bar, situated at the bottom, includes the Start menu, Quick Launch icons, and the Notification Area. The Task Bar provides quick access to programs and displays the status of various functions.
+
+Windows GUI allows for customization, and the Context Menu, accessed by right-clicking, offers additional functions for icons, files, and folders. Windows File Explorer is used for file and folder management.
